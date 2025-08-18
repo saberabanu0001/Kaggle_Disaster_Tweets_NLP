@@ -39,15 +39,15 @@ Evaluation using Accuracy and F1 Score.
 
 Clone this repository:
 
-git clone https://github.com/saberabanu0001/CalmMateAI.git
-cd CalmMateAI
+- git clone (https://github.com/saberabanu0001/Kaggle_Disaster_Tweets_NLP)
+- cd CalmMateAI
 
 
 Open the notebook in Jupyter or Google Colab.
 
 Install required libraries:
 
-pip install -r requirements.txt
+  - pip install -r requirements.txt
 
 
 Run all cells in Natural_Language_Processing_with_Disaster_Tweets_2.ipynb.
