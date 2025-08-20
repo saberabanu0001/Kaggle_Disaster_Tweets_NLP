@@ -52,19 +52,20 @@ Install required libraries:
 
 Run all cells in Natural_Language_Processing_with_Disaster_Tweets_2.ipynb.
 
-📊 Results
 
+
+📊 Results
 Baseline Model: Logistic Regression with TF-IDF features.
 
-Achieved around X% accuracy on validation set (update with your result).
+- Achieved around X% accuracy on validation set (update with your result).
 
 📌 Future Improvements
 
-Try advanced models (Naive Bayes, Random Forest, XGBoost).
+- Try advanced models (Naive Bayes, Random Forest, XGBoost).
 
-Use deep learning (LSTM, BERT).
+- Use deep learning (LSTM, BERT).
 
-Perform hyperparameter tuning for better performance.
+- Perform hyperparameter tuning for better performance.
 
 📜 License
 
